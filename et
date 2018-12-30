@@ -1,0 +1,47 @@
+[33mcommit 70164a1a0c3771d2baf09b67d54d652cfc19551f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:35:01 2018 -0700
+
+    Added a new font.
+
+[33mcommit 5e49202b5c932daf41af1a07276453722da0f95f[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:26:43 2018 -0700
+
+    Added some more font properties, aligned header.
+
+[33mcommit f8284384ca5bb5c2ed78569b2dff424f1401005e[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:22:47 2018 -0700
+
+    Assigned some font sizes to the text
+
+[33mcommit c53a1cc5b90669e006b3cd28dbd3097b99133274[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:15:53 2018 -0700
+
+    Changed paragraph to monospace font
+
+[33mcommit 3f761b9a5803be4a8f8d725ae126c19921d87c58[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:15:04 2018 -0700
+
+    Changed header to Arial font
+
+[33mcommit f826aba6251b9ba026e8174ff703ab7d894ac218[m[33m ([m[1;32mnewbranch[m[33m)[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:05:15 2018 -0700
+
+    Added .gitignore file
+
+[33mcommit 8644a4edfc88b0418e6b33e857ac6328f77a3675[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 17:00:29 2018 -0700
+
+    Added association to css stylesheet
+
+[33mcommit 3058ebcdb93f6224a9b4b32bde03fed75c931224[m
+Author: David Brungardt <brungardtdb@gmail.com>
+Date:   Sat Dec 29 16:55:49 2018 -0700
+
+    Initial Commit

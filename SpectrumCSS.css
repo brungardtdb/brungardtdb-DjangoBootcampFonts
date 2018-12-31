@@ -1,0 +1,48 @@
+h3
+{
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+  margin: auto;
+  padding: 25px;
+}
+
+table
+{
+  width: 75%;
+  text-align: center;
+  margin: auto;
+}
+
+td
+{
+  border: 4px solid white;
+  height: 335px;
+}
+
+#firstcolor
+{
+  background-color: #264653
+
+}
+
+#secondcolor
+{
+  background-color: #2A9D8E
+}
+
+#thirdcolor
+{
+  background-color: #E9C46A
+}
+
+#fourthcolor
+{
+  background-color: #E4A261;
+}
+
+#fifthcolor
+{
+  background-color: #E76E51
+}
